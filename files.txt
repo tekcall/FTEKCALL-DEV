@@ -1,9 +1,0 @@
-create home pages
-login pages
-register page
-contact page
-call page
-file page
-calender page
-sheduled call
-ooo
